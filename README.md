@@ -1,7 +1,7 @@
 # vue-login
 
 login vue con tailwind, redirecciona si el inicio es exitoso
-sino muestra error 
+sino muestra errores
 
 ## Project setup
 ```
