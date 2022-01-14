@@ -1,5 +1,8 @@
 # vue-login
 
+login vue con tailwind, redirecciona si el inicio es exitoso
+sino muestra error 
+
 ## Project setup
 ```
 yarn install

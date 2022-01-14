@@ -26,7 +26,7 @@
 
 
         <div v-if="error">
-            <h1>te equivocaste</h1>
+            <h1 class="text-red-700 mt-3">credenciales incorrectas</h1>
         </div>
     </main>
 
